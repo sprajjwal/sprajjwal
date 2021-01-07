@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Go, Web graphics & data visualization and Advanced recursions.
+- 💬 Ask me about anything
+- 📫 How to reach me any of the links above
+- 😄 Pronouns he/him/his
+
 <a href="https://shaash-prajjwal.medium.com/">
     <img align="right" alt="Shashwat Prajjwal | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/medium.svg" />
   </a>
@@ -20,9 +25,4 @@
 <!--
 **sprajjwal/sprajjwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-- 🌱 I’m currently learning Go, Web graphics & data visualization and Advanced recursions.
-- 💬 Ask me about anything
-- 📫 How to reach me any of the links above
-- 😄 Pronouns he/him/his
 
